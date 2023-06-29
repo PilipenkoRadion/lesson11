@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-style: italic;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+background-color: #008000;
+padding-top: 40px;
+padding-bottom: 40px;
+list-style: none;
+}
+.wrapper{
+    display: flex;
+    gap: 40px;
+  
+
+}
+body{background-color: aliceblue;}
+.box{
+    background-color: blue;
+}
+img{
+    width: 150px;
+}
